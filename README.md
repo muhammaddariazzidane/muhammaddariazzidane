@@ -2,12 +2,6 @@
 
 Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I reside in Karawang, West Java. I am a 21-year-old student at Bina Sarana Informatika University. My expertise lies in web development, particularly in full-stack web development. I am highly motivated to learn and enhance my skills in these fields, constantly seeking new and exciting projects to work on. I stay updated with industry advancements and continuously improve my skills through online learning platforms and YouTube.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
-
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -26,7 +20,6 @@ Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I re
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://www.linkedin.com/in/muhammad-dariaz-zidane/">LinkedIn</a>
+- <a href="https://dariaz-zidane.netlify.app/">dariaz-zidane.netlify.app</a>
+- dariazzidane@gmail.com
