@@ -1,8 +1,6 @@
-### Hi! 👋 I'm Dimas.
+### Hi! 👋 I'm Zidane.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I reside in Karawang, West Java. I am a 21-year-old student at Bina Sarana Informatika University. My expertise lies in web development, particularly in full-stack web development. I am highly motivated to learn and enhance my skills in these fields, constantly seeking new and exciting projects to work on. I stay updated with industry advancements and continuously improve my skills through online learning platforms and YouTube.
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
