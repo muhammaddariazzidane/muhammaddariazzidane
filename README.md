@@ -15,9 +15,9 @@ Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I re
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/muhammaddariazzidane">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammaddariazzidane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammaddariazzidane&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
