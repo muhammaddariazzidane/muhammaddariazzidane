@@ -18,8 +18,7 @@ Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I re
   <a href="#"><img align="left" alt="Mysql" title="Alpine js" width="21px" src="https://icon.icepanel.io/Technology/png-shadow-512/Alpine.js.png" /></a>
   </a>
   <br>
-  <br>
-  
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/muhammaddariazzidane">
