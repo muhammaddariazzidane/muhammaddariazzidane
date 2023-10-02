@@ -30,5 +30,5 @@ Allow me to introduce myself, my name is Muhammad Dariaz Zidane. Currently, I re
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-dariaz-zidane/">LinkedIn</a>
-- <a href="https://muhammad-dariaz-zidane.vercel.app">muhammad-dariaz-zidane.vercel.app</a>
+- <a href="https://muhammad-dariaz-zidane.vercel.app" target="_blank">muhammad-dariaz-zidane.vercel.app</a>
 - dariazzidane@gmail.com
