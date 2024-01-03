@@ -1,32 +1,59 @@
-# Hi there, I'm Muhammad Dariaz Zidane 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Dariaz Zidane!
 
-I'm a 21-year-old student at Bina Sarana Informatika University, currently residing in Karawang, West Java. My expertise lies in web development, particularly in full-stack web development. I am highly motivated to learn and enhance my skills in these fields, constantly seeking new and exciting projects to work on. I stay updated with industry advancements and continuously improve my skills through online learning platforms and YouTube.
+<div style="display: flex">
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCfGvkDZqPeUCgoP_OCsDelw">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammaddariazzidane">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammaddariazzidane">
+</div>
+
+<p>
+  
+I am a student in the Diploma 3 (D3) program currently pursuing my degree at Bina Sarana Informatika University in Karawang, West Java. I have a strong background in web development, with expertise in using platforms such as Laravel, CodeIgniter, and ReactJS to create versatile and user-friendly web applications.
+
+With a high level of enthusiasm for learning, I continually seek challenging and inspirational projects to enhance my skills in web development. I stay updated with industry advancements and continuously deepen my knowledge through online learning platforms and sources like YouTube.
+
+</p>
 
 ## Tech Stack
-<a href="#"><img align="left" alt="Html" title="Html" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-<a href="#"><img align="left" alt="Css" title="Css" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
-<a href="#"><img align="left" alt="Codeigniter" title="Codeigniter" width="21px" src="https://icons-for-free.com/iconfiles/png/512/codeigniter+plain-1324760526216009085.png" /></a>
-<a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-<a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="#"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
-<a href="#"><img align="left" alt="Tailwindcss" title="Tailwindcss" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-<a href="#"><img align="left" alt="Mysql" title="Mysql" width="21px" src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" /></a>
-<a href="#"><img align="left" alt="Alpine js" title="Alpine js" width="21px" src="https://icon.icepanel.io/Technology/png-shadow-512/Alpine.js.png" /></a>
-<br>
+
+<div style="display: flex;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" width="35" height="35" />
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="35" height="35" />
+<img src="https://cdn.worldvectorlogo.com/logos/axios.svg" width="35" height="35" />
+  
+</div>
 <br>
 
 ## Github Statistics
-<p align="left">
-<a href="https://github.com/muhammaddariazzidane">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammaddariazzidane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammaddariazzidane&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
-## Reach me on
-- [LinkedIn](https://www.linkedin.com/in/muhammad-dariaz-zidane/)
-- [muhammad-dariaz-zidane.vercel.app](https://muhammad-dariaz-zidane.vercel.app)
-- Email: dariazzidane@gmail.com
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddariazzidane&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammaddariazzidane&layout=compact&langs_count=120&card_width=320&theme=tokyonight" />
+
+---
+
+### Repositories
+
+<a href="https://github.com/muhammaddariazzidane/Front-end-Capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Front-end-Capstone&theme=tokyonight" />
+</a>
+<a href="https://github.com/muhammaddariazzidane/Front-end-Capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Back-end-Capstone&theme=tokyonight" />
+</a>
