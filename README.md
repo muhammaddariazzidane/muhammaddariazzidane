@@ -16,44 +16,56 @@ With a high level of enthusiasm for learning, I continually seek challenging and
 
 ## Tech Stack
 
-<div style="display: flex;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" width="35" height="35" />
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="35" height="35" />
-<img src="https://cdn.worldvectorlogo.com/logos/axios.svg" width="35" height="35" />
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=ylXrZF2zxsFE&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=UusFUDMbDtl7&format=png&color=000000" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" height="50" />
+<img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" alt="flask logo" height="50" />
+<img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="50" />
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="zustand logo" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" alt="pinia logo" height="50" />
+<img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="mysql logo" height="50" />
+<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb logo" height="50" />
+<img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" height="50" width="70" />
   
 </div>
 <br>
 
-## Github Statistics
+## My Github Statistics
+  <img  height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddariazzidane&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddariazzidane&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammaddariazzidane&layout=compact&langs_count=120&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6&theme=tokyonight" />
 
 ---
 
-### Repositories
+### MSIB 5
 
 <a href="https://github.com/muhammaddariazzidane/Front-end-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Front-end-Capstone&theme=tokyonight" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Front-end-Capstone&theme=tokyonight" />
 </a>
-<a href="https://github.com/muhammaddariazzidane/Front-end-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Back-end-Capstone&theme=tokyonight" />
+
+<a href="https://github.com/muhammaddariazzidane/Back-end-Capstone">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Back-end-Capstone&theme=tokyonight" />
+</a>
+
+### BANGKIT 2024 Bacth 1
+
+<a href="https://github.com/Teran-Capstone-Project/Teran-Cloud-Computing">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Teran-Capstone-Project&repo=Teran-Cloud-Computing&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Teran-Capstone-Project/Teran-Mobile-Development">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Teran-Capstone-Project&repo=Teran-Mobile-Development&theme=tokyonight" />
 </a>
