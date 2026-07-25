@@ -6,21 +6,17 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammaddariazzidane">
 </div>
 
-<p>
-  
-I am a student in the Diploma 3 (D3) program currently pursuing my degree at Bina Sarana Informatika University in Karawang, West Java. I have a strong background in web development, with expertise in using platforms such as Laravel, CodeIgniter, and ReactJS to create versatile and user-friendly web applications.
+A passionate **Full Stack Web Developer** with a strong foundation in building scalable, performant, and user-friendly web applications. My core strength lies in the **JavaScript/TypeScript ecosystem**, alongside hands-on experience in **Go** and **PHP**.
 
-With a high level of enthusiasm for learning, I continually seek challenging and inspirational projects to enhance my skills in web development. I stay updated with industry advancements and continuously deepen my knowledge through online learning platforms and sources like YouTube.
-
-</p>
-
-## Tech Stack
+## 🚀 Tech Stack & Tools
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50" />
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="50" />
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="50" />
 <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="50" />
+<img src="https://img.icons8.com/?size=100&id=IrYuykLoqOH6&format=png&color=228BE6" height="50" />
+
 <img src="https://img.icons8.com/?size=100&id=ylXrZF2zxsFE&format=png&color=000000" height="50" />
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="50" />
 <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="50" />
@@ -39,33 +35,13 @@ With a high level of enthusiasm for learning, I continually seek challenging and
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="mysql logo" height="50" />
 <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb logo" height="50" />
 <img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" height="50" width="70" />
+<img src="https://img.icons8.com/?size=100&id=22801&format=png&color=228BE6" height="50" />
   
 </div>
-<br>
 
-## My Github Statistics
-  <img  height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddariazzidane&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage" />
+### 💡 What I Do
+- 🛠️ Build robust full-stack web applications & REST APIs
+- 📦 Develop & publish open-source tools/utilities (npm packages & CLI tools)
+- ⚡ Optimize performance, database queries, and real-time data pipelines
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6&theme=tokyonight" />
-
----
-
-### MSIB 5
-
-<a href="https://github.com/muhammaddariazzidane/Front-end-Capstone">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Front-end-Capstone&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/muhammaddariazzidane/Back-end-Capstone">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddariazzidane&repo=Back-end-Capstone&theme=tokyonight" />
-</a>
-
-### BANGKIT 2024 Bacth 1
-
-<a href="https://github.com/Teran-Capstone-Project/Teran-Cloud-Computing">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Teran-Capstone-Project&repo=Teran-Cloud-Computing&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Teran-Capstone-Project/Teran-Mobile-Development">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Teran-Capstone-Project&repo=Teran-Mobile-Development&theme=tokyonight" />
-</a>
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-dariaz-zidane/) | [Portfolio/Website](https://dariazzidane.vercel.app)
