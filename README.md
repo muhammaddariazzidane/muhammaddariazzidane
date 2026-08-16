@@ -43,5 +43,3 @@ A passionate **Full Stack Web Developer** with a strong foundation in building s
 - 🛠️ Build robust full-stack web applications & REST APIs
 - 📦 Develop & publish open-source tools/utilities (npm packages & CLI tools)
 - ⚡ Optimize performance, database queries, and real-time data pipelines
-
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-dariaz-zidane/) | [Portfolio/Website](https://dariazzidane.vercel.app)
